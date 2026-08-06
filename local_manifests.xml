@@ -10,14 +10,14 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/meizu/m1851" name="android_device_meizu_m1851" remote="KOSO" revision="lineage-18.1" />
+    <project path="device/meizu/m1851" name="android_device_meizu_m1851" remote="KOSO" revision="lineage-21" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/meizu/m1851" name="android_kernel_meizu_m1851" remote="KOSO" revision="lineage-18.1" />
+    <project path="kernel/meizu/m1851" name="android_kernel_meizu_m1851" remote="KOSO" revision="lineage-21" />
 
     <!-- Vendor -->
-    <project path="vendor/meizu/m1851" name="proprietary_vendor_m1851" remote="KOSO" revision="lineage-18.1" />
+    <project path="vendor/meizu/m1851" name="proprietary_vendor_m1851" remote="KOSO" revision="lineage-21" />
 
 </manifest>
