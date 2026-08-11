@@ -4,15 +4,9 @@
     <!-- Remotes -->
     <remote name="KOSO" fetch="https://github.com/KopsourcesORG" clone-depth="1" />
 
-    <!-- Removals -->
-    <remove-project name="LineageOS/android_hardware_qcom_media" />
-    <remove-project name="LineageOS/android_hardware_qcom_audio" />
-
     <!-- Repos -->
     <!-- Device -->
     <project path="device/meizu/m1851" name="android_device_meizu_m1851" remote="KOSO" revision="lineage-21" />
-
-    <!-- Device - Common -->
 
     <!-- Kernel -->
     <project path="kernel/meizu/m1851" name="android_kernel_meizu_m1851" remote="KOSO" revision="lineage-21" />
